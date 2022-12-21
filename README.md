@@ -1,0 +1,2 @@
+# csgo
+for cs settings
